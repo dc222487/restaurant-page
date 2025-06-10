@@ -1,0 +1,1 @@
+just a simple restuarant website made using webpack and js entirely
